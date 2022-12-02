@@ -1,0 +1,32 @@
+.LeftCircle{
+  position: absolute;
+  left:  300PX;
+  background-color: lightblue;
+  padding: 50px 50px;
+  border-radius: 150px;
+  
+
+}.RightCircle{
+  position: absolute;
+  left: 1000pX;
+  background-color: lightblue;
+  padding: 50px 50px;
+  border-radius: 100px;
+
+}
+.centerText{
+  position: absolute;
+  left: 550px;
+  font-size: 500%;
+  
+}
+.formCenter{
+  position: relative;
+  /* margin-top: 20%;
+  margin-left: 20%; */
+  padding: 200px 300px;
+  
+}
+.push{
+  background-color: red;
+}
